@@ -1,6 +1,6 @@
 # Algorithms
 
-Implementation of different algorithms
+Implementation of different algorithms from Introduction to Algorithms (CLRS)
 
 <!-- CONTRIBUTING -->
 ## Contributing
