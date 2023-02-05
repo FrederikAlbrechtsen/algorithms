@@ -1,6 +1,6 @@
 # Algorithms
 
-Implementation of various sorting algorithms from Introduction to Algorithms (CLRS) performed back in 2019. I will try to keep the repository updated with more algorithms and implementations of algorithms in multiple languages.
+Implementation of various sorting algorithms from Introduction to Algorithms (CLRS) performed back in 2019. I will try to keep the repository updated with more algorithms and implementations of algorithms in different programming languages.
 
 <!-- CONTRIBUTING -->
 ## Contributing
