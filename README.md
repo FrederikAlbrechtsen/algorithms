@@ -1,6 +1,6 @@
 # Algorithms
 
-Implementation of different sorting algorithms from Introduction to Algorithms (CLRS) done back in 2019.
+Implementation of various sorting algorithms from Introduction to Algorithms (CLRS) done back in 2019.
 
 <!-- CONTRIBUTING -->
 ## Contributing
