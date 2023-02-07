@@ -1,8 +1,9 @@
 # Algorithms
+Implementation of various algorithms from Introduction to Algorithms (CLRS).
 
-Implementation of various sorting algorithms from Introduction to Algorithms (CLRS) developed back in 2019. My wish is to keep the repository updated, when time allows it, with more algorithms and implementations in different programming languages 
+Note that this project is meant to be used for learning and research purposes only. The algorithms were developed back in 2019 as part of my time as a bachelor student at the University of Southern Denmark. 
 
 <!-- CONTRIBUTING -->
 ## Contributing
-If you have a suggestion to improve this, or algorithms you think are missing and would like to add, please fork the repo and create a pull request. You can also open an issue with the tag "improvement".
+If you have a suggestion to improve this, or algorithms you would like to add, please fork the repo and create a pull request. You can also open an issue with the tag "improvement".
 Any contributions you make are greatly appreciated.
