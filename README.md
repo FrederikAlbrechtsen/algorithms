@@ -1,7 +1,7 @@
 # Algorithms
 Implementation of various algorithms from Introduction to Algorithms (CLRS).
 
-Note that this project is meant to be used for learning and research purposes only. The algorithms were developed back in 2019 as part of my time as a bachelor student at the University of Southern Denmark. 
+Note that this project is meant to be used for learning and research purposes only. The algorithms were developed as part of my time as a bachelor student at the University of Southern Denmark. 
 
 <!-- CONTRIBUTING -->
 ## Contributing
