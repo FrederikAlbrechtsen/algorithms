@@ -10,7 +10,7 @@ The primary purpose of this project is to provide a practical and educational re
 
 ## About the Author
 
-Some of the algorithms included in this repository were developed during my time as a bachelor student at the University of Southern Denmark. My academic journey inspired me to create this collection, which has since grown to encompass a diverse set of programming languages and algorithmic solutions.
+Some of the algorithms included in this repository were developed during my time as a student at the University of Southern Denmark. My academic journey inspired me to create this collection, which has since grown to encompass a diverse set of programming languages and algorithmic solutions.
 
 ## Note of Caution
 
