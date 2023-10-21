@@ -1,8 +1,8 @@
-# Algorithms
+# algorithms
 
 ## Overview
 
-Welcome to Algorithms! This project includes a collection of well-known algorithms implemented in various programming languages, making it an excellent learning tool for students, developers, and researchers interested in algorithmic exploration.
+Welcome to algorithms! This project includes a collection of well-known algorithms implemented in various programming languages, making it an excellent learning tool for students, developers, and researchers interested in algorithmic exploration.
 
 ## Purpose
 
@@ -23,3 +23,7 @@ This repository features a wide selection of programming languages and a variety
 ## Contributing
 If you have additional algorithms, improvements, or bug fixes to share, please feel free to submit pull requests.
 Any contributions you make are greatly appreciated.
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
